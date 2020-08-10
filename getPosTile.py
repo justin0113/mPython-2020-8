@@ -8,4 +8,4 @@ Created on Mon Aug 10 11:25:49 2020
 from mcpi.minecraft import Minecraft
 mc= Minecraft.create()
 
-print(mc.player.getTilePos())`
+print(mc.player.getTilePos())
